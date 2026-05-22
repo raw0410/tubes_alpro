@@ -30,10 +30,7 @@ var daftarPenyewa []penyewa
 var daftarJadwal []jadwal
 
 var idLapanganCounter int = 1
-var idPenyewaCounter int = 34343434
+var idPenyewaCounter int = 1
 var idJadwalCounter int = 1
 
 func tambahlapangan()
-
-//rangga love mariza
-//and mariza love rangga
